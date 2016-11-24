@@ -1,0 +1,13 @@
+{
+  "name": "css3d",
+  "version": "1.0.0",
+  "description": "Wrapper around three.js CSS3D render + tween.js",
+  "main": "./css3d.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mannynotfound/css3d"
+  },
+  "author": "Manny404",
+  "license": "WTFPL",
+  "homepage": "http://art404.com"
+}
